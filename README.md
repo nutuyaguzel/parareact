@@ -8,8 +8,6 @@ React ile para harcama projesi geliştirdik.Uygulamanın gif halini ekledim.
 <h2>Ekran Görüntüsü</h2>
 
 
-! [](Screenpara.gif)
+![](Screenpara.gif)
 
 
-# parareact
-# parareact
