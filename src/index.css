@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+.conteiner {
+    width: 1000px;
+    margin: 0 auto;
+  
+}
+.products{
+    display: flex;
+    flex-wrap: wrap;
+
+}

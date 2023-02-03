@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "title":"parfüm",
+        "price":0.5,
+        "image":"https://cdn.akakce.com/z/avon/avon-far-away-edp-50-ml-kadin.jpg"
+
+
+
+    },
+    {
+        "id":2,
+        "title":"çanta",
+        "price":6,
+        "image":"https://static.ticimax.cloud/32454/Uploads/UrunResimleri/thumb/a22ka7222002-1962-b93e-e.jpg"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price":400,
+        "image":"https://aydinli-polo.b-cdn.net/products/2022/04/05/597172/5c7ea52e-4c0a-4425-bfb0-d2a1318e86b0_size2800x2800_quality100.jpg"
+        
+
+
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price":40000,
+        "image":"https://productimages.hepsiburada.net/s/69/300-443/110000010867938.jpg"
+        
+
+
+    }
+]
