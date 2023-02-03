@@ -12,3 +12,4 @@ React ile para harcama projesi geliştirdik.Uygulamanın gif halini ekledim.
 
 
 # parareact
+# parareact
